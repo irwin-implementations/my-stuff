@@ -10,3 +10,6 @@ yum install npm
 yum install nodejs
 yum install nginx
 yum install openssh
+yum install git
+
+npm install pm2
